@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:00:59.026791
+#+DATE: 2015-08-30 20:01:00.485540
 #+TITLE: 佛說決定毘尼經
 #+PROPERTY: CBETA_ID T12n0325
 #+PROPERTY: ID KR6f0017
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 12, No. 325
 #+PROPERTY: VOL 12
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@LI
 #+PROPERTY: LASTPB <pb:KR6f0017_T_001-0037b> 
 #+PROPERTY: JUAN 1
 ¶
-No.325[No.310(24)]¶
-
- 佛說決定毗尼經¶
+No. 325 [No. 310(24)]¶
+佛說決定毗尼經¶
 ¶
 群錄皆云燉煌三藏譯¶
 
@@ -286,8 +285,7 @@ No.325[No.310(24)]¶
 <pb:KR6f0017_T_001-0039a>¶
 佛、南無蓮華光遊戲神通佛、南無財功德¶
 佛、南無德念佛、南無善名稱功德如來、¶
-南無紅炎幢王如來、南無善遊步功德如¶
-來、南無鬪戰勝如來、南無善遊步如來、¶
+南無紅炎幢王如來、南無善遊步功德如來、南無鬪戰勝如來、南無善遊步如來、¶
 南無周匝莊嚴功德如來、南無寶華遊步¶
 如來、南無寶蓮華善住娑羅樹王如來。¶
 
